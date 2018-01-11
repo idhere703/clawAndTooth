@@ -9,7 +9,7 @@ export default {
   name: 'hello',
   data () {
     return {
-      msg: 'I need actual content! But I am so tired! Sleep time now.'
+      msg: 'Template msg.'
     }
   }
 }
